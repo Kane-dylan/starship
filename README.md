@@ -1,4 +1,5 @@
 <h1>starship.toml</h1>
+<h2>have to add more custom files for adding into Github repo</h2>
 <p> this is a custom file which integrate to my terminal and gives it a great look </p> 
 <p>here are some screen short</p>
 
